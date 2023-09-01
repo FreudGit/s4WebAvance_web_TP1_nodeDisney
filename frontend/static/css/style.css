@@ -1,0 +1,82 @@
+body {
+  --nav-width: 200px;
+  margin: 0 0 0 var(--nav-width);
+  font-family: "Quicksand", sans-serif;
+  font-size: 18px;
+}
+
+.navbar {
+  background-color: #00008b; /* Couleur de fond bleu foncé */
+  color: #fff; /* Couleur du texte en blanc */
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.navbar-title {
+  margin-left: 1rem; /* Espacement du titre à gauche */
+  font-size: 1.5rem;
+}
+
+.nav-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.nav-links li {
+  margin-right: 20px; /* Espacement entre les éléments de navigation */
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: inherit;
+}
+
+nav > a:hover {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+#app {
+  margin: 2em;
+  line-height: 1.5;
+  font-weight: 500;
+}
+.list-group {
+  max-width: 600px;
+  margin: 0 auto; 
+  padding: 0;
+}
+
+/* Style des cellules */
+.list-group-item {
+  display: flex; 
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); 
+  margin-bottom: 10px; 
+  cursor: pointer; 
+}
+
+/* Style du texte */
+.post-link {
+  color: black;
+  text-decoration: none;
+  flex: 1; 
+}
+
+/* Style de la boîte de l'image */
+.post-content {
+  display: flex;
+  align-items: center;
+}
+
+/* Style de l'image */
+.post-image {
+  max-height: 100px;
+  margin-left: 10px; 
+  border: 2px solid #007bff; 
+  border-radius: 5px; 
+}
