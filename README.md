@@ -4,13 +4,15 @@ TP1 : SPA Monopage avec REst
 
 par:  François Hébert (e2296133) 
 
+_________
+
 ## DOCUMENTATION
 
 RÉFÉRENCES:
 
 - API UTILISÉ: **[DISNEYAPI.DEV](https://disneyapi.dev/)** 
 - LIEN VERS LE GITHUB: **[GIT DU PROJET](https://github.com/fhmaisonneuve/s4WebAvance_web_TP1_nodeDisney)**
-- LIEN VERS LA VIDÉO DE PRÉSENTATION: **[https://e2296133.webdev.cmaisonneuve.qc.ca/cadricielexercice1/](A SUIVRE)** 
+- LIEN VERS LA VIDÉO DE PRÉSENTATION: **[Vidéo de présentation(sur GITHUB)]()** 
    
 
 ## REQUIS DÉMANDÉS
