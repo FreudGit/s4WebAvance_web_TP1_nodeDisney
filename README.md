@@ -12,7 +12,7 @@ RÉFÉRENCES:
 
 - API UTILISÉ: **[DISNEYAPI.DEV](https://disneyapi.dev/)** 
 - LIEN VERS LE GITHUB: **[GIT DU PROJET](https://github.com/fhmaisonneuve/s4WebAvance_web_TP1_nodeDisney)**
-- LIEN VERS LA VIDÉO DE PRÉSENTATION: **[Vidéo de présentation(sur GITHUB)]()** 
+- LIEN VERS LA VIDÉO DE PRÉSENTATION: **[Vidéo de présentation(sur GITHUB)](https://raw.githubusercontent.com/fhmaisonneuve/s4WebAvance_web_TP1_nodeDisney/main/___SCREENRECORD/TP1_webavance_nodeDisney_screenrecord.mov)** 
    
 
 ## REQUIS DÉMANDÉS
