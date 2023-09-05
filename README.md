@@ -10,7 +10,7 @@ RÉFÉRENCES:
 
 - API UTILISÉ: **[DISNEYAPI.DEV](https://disneyapi.dev/)** 
 - LIEN VERS LE GITHUB: **[GIT DU PROJET](https://github.com/fhmaisonneuve/s4WebAvance_web_TP1_nodeDisney)**
-- LIEN VERS LA VIDÉO DE PRÉSENTATION: **[https://e2296133.webdev.cmaisonneuve.qc.ca/cadricielexercice1/](https://e2296133.webdev.cmaisonneuve.qc.ca/cadricielexercice1/)** 
+- LIEN VERS LA VIDÉO DE PRÉSENTATION: **[https://e2296133.webdev.cmaisonneuve.qc.ca/cadricielexercice1/](A SUIVRE)** 
    
 
 ## REQUIS DÉMANDÉS
@@ -20,6 +20,8 @@ RÉFÉRENCES:
 ```
 nmp init -y
 nmp i express request dotenv
+
+(Démarrer le server: node server.js)
 
 ```
   

@@ -8,7 +8,7 @@ export default class extends AbstractView {
 
   async getHtml() {
     return `
-        <h1>À propos de nous</h1>
+        <h1>À propos de nous!</h1>
         <p>Bienvenue sur Disney Personnages Info, votre destination de référence pour découvrir l'univers enchanteur des personnages Disney. Notre site est dédié à vous fournir :</p>
         <ul>
             <li>Des profils détaillés et des informations sur différents personnages Disney.</li>
