@@ -17,7 +17,7 @@ export default class extends AbstractView {
         </ul>
         <p>Explorez notre site et embarquez pour une aventure remplie de nostalgie, d'émerveillement et de la magie intemporelle de Disney !</p>
         <p>
-            <a href="/posts">Découvrez notre personnage favoris!</a>
+            <a href="/posts">Découvrez nos personnages favoris!</a>
         </p>
         `;
   }
